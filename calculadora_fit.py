@@ -70,4 +70,6 @@ elif sexo == 2:
         print("Você tem um gasto calórico de aproximadamente", gasto_dfem_int, "kcal por dia")
         print("Para ganhar mais massa muscular, é necessário ingerir", superavit_fem_int, "kcal por dia")
         print("Para emagrecimento, é necessário ingerir",deficit_fem_int, "kcal por dia")
+        
+        """"""
 
